@@ -1,11 +1,11 @@
 {
   "AppsPromote": [
     {
-      "name": "Clash Royale",
-      "packageName": "com.supercell.clashroyale",
-      "icon": "https://play-lh.googleusercontent.com/I-Tjgln0_e3ju9qfgbyBoB6AqgEwDeWcoU2wbbk-Y6MIkC6OJHz840NibZBIy0bwL14=w480-h960-rw",
-      "preview": "https://play-lh.googleusercontent.com/kjsTGzPdPMM9IcN9J3jCU_g5bZGoVSqvrCDXNtDnr9NikQweI2M8ImBXAoVHmX8iMLg=w1052-h592-rw",
-      "shortDescription": "Play Now !",
+      "name": "Glitch Video & Editor",
+      "packageName": "com.xcodeglobal.glitchvideo",
+      "icon": "https://play-lh.googleusercontent.com/31iCjSCyEdWqAnR9XSkJPhC-qat0XobA0Bw84VlowSnJlKmVCBN4qvLZlAeJDXyIdGg=s180",
+      "preview": "https://play-lh.googleusercontent.com/MjAt17jOQWJxd_YEll4gNc8TgzKW7e_pfYTacr7d_MZLB50Q_qrbvYAk5fSuFbQaWA=w720-h310",
+      "shortDescription": "Select video from gallery and glitch it!",
       "screenShot": [
         "https://play-lh.googleusercontent.com/1uEDjifScv4ZnztIEqLbulwZS2TAPb98m2RE-k9CPNK2cPHPblbQmm-PG6rK31NU9cc=w720-h310",
         "https://play-lh.googleusercontent.com/1El08973eev4zEfs1doK1__4iV6hoB0WPF1IjEL1Ul2hFUZDTuKqwjgfT_Wjbw0_Hg=w720-h310",
@@ -13,22 +13,22 @@
       ]
     },
     {
-      "name": "Snapchat",
-      "packageName": "com.snapchat.android",
-      "icon": "https://play-lh.googleusercontent.com/I-Tjgln0_e3ju9qfgbyBoB6AqgEwDeWcoU2wbbk-Y6MIkC6OJHz840NibZBIy0bwL14=w480-h960-rw",
-      "preview": "https://play-lh.googleusercontent.com/kjsTGzPdPMM9IcN9J3jCU_g5bZGoVSqvrCDXNtDnr9NikQweI2M8ImBXAoVHmX8iMLg=w1052-h592-rw",
-      "shortDescription": "share the moment with your friends",
+      "name": "QR Code Scanner",
+      "packageName": "com.barcode.masterscan.qrcodepro",
+      "icon": "https://play-lh.googleusercontent.com/USoGxVfosI5cRXb7ocM5bftHLMMy_i9mveQrh3iSFdwh2oZ4u2iOcUgfLhozs0uq370=s180",
+      "preview": "https://play-lh.googleusercontent.com/n6rYdEeIXbnT-8XOeo4mWuaG7o39Va1IhyPFClNuITiDTvzI5wIOOx5STal4YimD9Tc=w720-h310",
+      "shortDescription": "Scan all types of codes quickly, instantly",
       "screenShot": [
         "https://play-lh.googleusercontent.com/xKCYMMuIshGmxLVckXnGYsdorvBxF0oI58Yt82Vkj_cn3Dby52gdrt4Lmr7BTYiVww=w720-h310",
         "https://play-lh.googleusercontent.com/3KtSEofVcRIQUWQnq814EYI7xo61uD6Cg1tvWdYTPUXweFMjv7HkA9b9FVmt3zYDkSau=w720-h310"
       ]
     },
     {
-      "name": "Subway Surfers",
-      "packageName": "com.kiloo.subwaysurf",
-      "icon": "https://play-lh.googleusercontent.com/I-Tjgln0_e3ju9qfgbyBoB6AqgEwDeWcoU2wbbk-Y6MIkC6OJHz840NibZBIy0bwL14=w480-h960-rw",
-      "preview": "https://play-lh.googleusercontent.com/kjsTGzPdPMM9IcN9J3jCU_g5bZGoVSqvrCDXNtDnr9NikQweI2M8ImBXAoVHmX8iMLg=w1052-h592-rw",
-      "shortDescription": "Help Jake, Tricky & Fresh escape from the grumpy",
+      "name": "Translator Voice Translate",
+      "packageName": "com.dailytranslator.translator",
+      "icon": "https://play-lh.googleusercontent.com/FAKD_2aaOXVl2qbTAd1YlVDZtJEouOdDO1vTzTTNYaJuNS9SiEW3LMvEwekIqPQ9RgY=s180",
+      "preview": "https://play-lh.googleusercontent.com/4MdgFR3CHZ43N6r6PK0d4uqXQRmIIcerDuxfVfugujhsbPC9i2n6Ndkbiw8mnTyCupgM=w720-h310",
+      "shortDescription": "Speak and Translate all text, voice & conversations",
       "screenShot": [
         "https://play-lh.googleusercontent.com/ykOPalbLQ5fwd2gvh-uRizHG1xeOvxLWDw7CtLm5P32l-ywf2dM2yGQU5FNKjjwEIBA=w720-h310",
         "https://play-lh.googleusercontent.com/RJ3G6klnvHH5wKOXHWP4a-b6PM38ACfzfFCNzagFt0jAFDYbS2N2bHFGKBgV58bIaoI=w720-h310",
