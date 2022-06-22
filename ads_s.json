@@ -24,44 +24,75 @@
       ]
     },
       {
-      "name": "QR Code Scanner",
-      "packageName": "com.barcode.masterscan.qrcodepro",
-      "icon": "https://play-lh.googleusercontent.com/USoGxVfosI5cRXb7ocM5bftHLMMy_i9mveQrh3iSFdwh2oZ4u2iOcUgfLhozs0uq370=s180",
-      "preview": "https://play-lh.googleusercontent.com/n6rYdEeIXbnT-8XOeo4mWuaG7o39Va1IhyPFClNuITiDTvzI5wIOOx5STal4YimD9Tc=w720-h310",
-      "shortDescription": "Scan all types of codes quickly, instantly",
+      "name": "Background Remover",
+      "packageName": "com.xcodeglobal.background.cutout",
+      "icon": "https://play-lh.googleusercontent.com/K60dcVkfJySaFQAJ3g-A3yzIt2txNSyA8eJ24yC0B_1sSDi4YyZoEb_BTARfLcronEEJ=s180",
+      "preview": "https://play-lh.googleusercontent.com/tE2LchQx6wTkIiRqcH_SXxYakNN75ji-HImGXZaF9LXmSI50u502VP-eMUuJIw0FNQ=w720-h310",
+      "shortDescription": "Remove image backgrounds",
       "screenShot": [
         "https://play-lh.googleusercontent.com/xKCYMMuIshGmxLVckXnGYsdorvBxF0oI58Yt82Vkj_cn3Dby52gdrt4Lmr7BTYiVww=w720-h310",
         "https://play-lh.googleusercontent.com/3KtSEofVcRIQUWQnq814EYI7xo61uD6Cg1tvWdYTPUXweFMjv7HkA9b9FVmt3zYDkSau=w720-h310"
       ]
     },
       {
-      "name": "QR Code Scanner",
-      "packageName": "com.barcode.masterscan.qrcodepro",
-      "icon": "https://play-lh.googleusercontent.com/USoGxVfosI5cRXb7ocM5bftHLMMy_i9mveQrh3iSFdwh2oZ4u2iOcUgfLhozs0uq370=s180",
-      "preview": "https://play-lh.googleusercontent.com/n6rYdEeIXbnT-8XOeo4mWuaG7o39Va1IhyPFClNuITiDTvzI5wIOOx5STal4YimD9Tc=w720-h310",
-      "shortDescription": "Scan all types of codes quickly, instantly",
+      "name": "Picut - Photo Editor Pro",
+      "packageName": "com.toptenaps.photo.edit",
+      "icon": "https://play-lh.googleusercontent.com/t70_U5KAkmL-52A2Dk6xO33EM6BojX2emr_KqvbxcfK4Vrw4JM1Op3Z5Co3llYZdEA=s180",
+      "preview": "https://play-lh.googleusercontent.com/sLx1egSmpGOhl1L59Wm1w0xtuGtS_ys438ldivdvw_gR3vnAA7M5B0jF26c9dzT-D74=w720-h310",
+      "shortDescription": "most powerful photo editor",
       "screenShot": [
         "https://play-lh.googleusercontent.com/xKCYMMuIshGmxLVckXnGYsdorvBxF0oI58Yt82Vkj_cn3Dby52gdrt4Lmr7BTYiVww=w720-h310",
         "https://play-lh.googleusercontent.com/3KtSEofVcRIQUWQnq814EYI7xo61uD6Cg1tvWdYTPUXweFMjv7HkA9b9FVmt3zYDkSau=w720-h310"
       ]
     },
       {
-      "name": "QR Code Scanner",
-      "packageName": "com.barcode.masterscan.qrcodepro",
-      "icon": "https://play-lh.googleusercontent.com/USoGxVfosI5cRXb7ocM5bftHLMMy_i9mveQrh3iSFdwh2oZ4u2iOcUgfLhozs0uq370=s180",
-      "preview": "https://play-lh.googleusercontent.com/n6rYdEeIXbnT-8XOeo4mWuaG7o39Va1IhyPFClNuITiDTvzI5wIOOx5STal4YimD9Tc=w720-h310",
-      "shortDescription": "Scan all types of codes quickly, instantly",
+      "name": "Calculator Lock",
+      "packageName": "com.toptenap.calculatorlock",
+      "icon": "https://play-lh.googleusercontent.com/KNV8_2bqPxP3ryGoO_nxH_BZ6zBEJ8QOGODO3MIVstVKgxuQ7LxAa9lFpqwzr7UDIp8=s180",
+      "preview": "https://play-lh.googleusercontent.com/hHxeshRRnAOcWqIQIbl-JqLb1TrrQi9nJ-oYtlfc74v2_JAJg8Qx0JRhWWazWSHjxqev=w720-h310",
+      "shortDescription": "HideVault, the secret calculator",
       "screenShot": [
         "https://play-lh.googleusercontent.com/xKCYMMuIshGmxLVckXnGYsdorvBxF0oI58Yt82Vkj_cn3Dby52gdrt4Lmr7BTYiVww=w720-h310",
         "https://play-lh.googleusercontent.com/3KtSEofVcRIQUWQnq814EYI7xo61uD6Cg1tvWdYTPUXweFMjv7HkA9b9FVmt3zYDkSau=w720-h310"
       ]
     },
       {
-      "name": "QR Code Scanner",
-      "packageName": "com.barcode.masterscan.qrcodepro",
-      "icon": "https://play-lh.googleusercontent.com/USoGxVfosI5cRXb7ocM5bftHLMMy_i9mveQrh3iSFdwh2oZ4u2iOcUgfLhozs0uq370=s180",
-      "preview": "https://play-lh.googleusercontent.com/n6rYdEeIXbnT-8XOeo4mWuaG7o39Va1IhyPFClNuITiDTvzI5wIOOx5STal4YimD9Tc=w720-h310",
-      "shortDescription": "Scan all types of codes quickly, instantly",
+      "name": "QR Code & barcode Scanner",
+      "packageName": "com.barcode.xcodeglobal.qrcodepro",
+      "icon": "https://play-lh.googleusercontent.com/Pf5_2Tcq0kHgr2njUQBdWIWOaV0Cl0j9THCJn5alKRBw3YIPdRrVACZN_Hd5l9TMwg8=s180",
+      "preview": "https://play-lh.googleusercontent.com/8XORCHrj4F6UgXAf8oW8xpfjfctrfdOI9wy2uiFOeyC43_4Ajb4q4th_ox_QUumOOT0=w720-h310",
+      "shortDescription": "The free ultimate QR code scanner",
+      "screenShot": [
+        "https://play-lh.googleusercontent.com/xKCYMMuIshGmxLVckXnGYsdorvBxF0oI58Yt82Vkj_cn3Dby52gdrt4Lmr7BTYiVww=w720-h310",
+        "https://play-lh.googleusercontent.com/3KtSEofVcRIQUWQnq814EYI7xo61uD6Cg1tvWdYTPUXweFMjv7HkA9b9FVmt3zYDkSau=w720-h310"
+      ]
+    },
+     {
+      "name": "TakeToon- Photo Cartoon",
+      "packageName": "com.toptenaps.cartoon.prismaeffect",
+      "icon": "https://play-lh.googleusercontent.com/iKocbw2PVEEqBP7sbKCJOMAFtW7DwFdr9wjWRwwz3VNCbllT4M30atQWe5bLz7FLjaQ=s180",
+      "preview": "https://play-lh.googleusercontent.com/S8P89Tu1dGTTXnrxHPjODUDtk3iNrWed3Jum_WRU_gLjSpMX9UV5TI_q8swapHSV7H8=w720-h310",
+      "shortDescription": "converts your photos into a cartoon photo",
+      "screenShot": [
+        "https://play-lh.googleusercontent.com/xKCYMMuIshGmxLVckXnGYsdorvBxF0oI58Yt82Vkj_cn3Dby52gdrt4Lmr7BTYiVww=w720-h310",
+        "https://play-lh.googleusercontent.com/3KtSEofVcRIQUWQnq814EYI7xo61uD6Cg1tvWdYTPUXweFMjv7HkA9b9FVmt3zYDkSau=w720-h310"
+      ]
+    }, {
+      "name": "QR Code & barcode Scanner",
+      "packageName": "com.barcode.xcodeglobal.qrcodepro",
+      "icon": "https://play-lh.googleusercontent.com/Pf5_2Tcq0kHgr2njUQBdWIWOaV0Cl0j9THCJn5alKRBw3YIPdRrVACZN_Hd5l9TMwg8=s180",
+      "preview": "https://play-lh.googleusercontent.com/8XORCHrj4F6UgXAf8oW8xpfjfctrfdOI9wy2uiFOeyC43_4Ajb4q4th_ox_QUumOOT0=w720-h310",
+      "shortDescription": "The free ultimate QR code scanner",
+      "screenShot": [
+        "https://play-lh.googleusercontent.com/xKCYMMuIshGmxLVckXnGYsdorvBxF0oI58Yt82Vkj_cn3Dby52gdrt4Lmr7BTYiVww=w720-h310",
+        "https://play-lh.googleusercontent.com/3KtSEofVcRIQUWQnq814EYI7xo61uD6Cg1tvWdYTPUXweFMjv7HkA9b9FVmt3zYDkSau=w720-h310"
+      ]
+    }, {
+      "name": "QR Code & barcode Scanner",
+      "packageName": "com.barcode.xcodeglobal.qrcodepro",
+      "icon": "https://play-lh.googleusercontent.com/Pf5_2Tcq0kHgr2njUQBdWIWOaV0Cl0j9THCJn5alKRBw3YIPdRrVACZN_Hd5l9TMwg8=s180",
+      "preview": "https://play-lh.googleusercontent.com/8XORCHrj4F6UgXAf8oW8xpfjfctrfdOI9wy2uiFOeyC43_4Ajb4q4th_ox_QUumOOT0=w720-h310",
+      "shortDescription": "The free ultimate QR code scanner",
       "screenShot": [
         "https://play-lh.googleusercontent.com/xKCYMMuIshGmxLVckXnGYsdorvBxF0oI58Yt82Vkj_cn3Dby52gdrt4Lmr7BTYiVww=w720-h310",
         "https://play-lh.googleusercontent.com/3KtSEofVcRIQUWQnq814EYI7xo61uD6Cg1tvWdYTPUXweFMjv7HkA9b9FVmt3zYDkSau=w720-h310"
