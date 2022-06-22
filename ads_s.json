@@ -74,28 +74,34 @@
       "preview": "https://play-lh.googleusercontent.com/S8P89Tu1dGTTXnrxHPjODUDtk3iNrWed3Jum_WRU_gLjSpMX9UV5TI_q8swapHSV7H8=w720-h310",
       "shortDescription": "converts your photos into a cartoon photo",
       "screenShot": [
-        "https://play-lh.googleusercontent.com/xKCYMMuIshGmxLVckXnGYsdorvBxF0oI58Yt82Vkj_cn3Dby52gdrt4Lmr7BTYiVww=w720-h310",
-        "https://play-lh.googleusercontent.com/3KtSEofVcRIQUWQnq814EYI7xo61uD6Cg1tvWdYTPUXweFMjv7HkA9b9FVmt3zYDkSau=w720-h310"
+        "https://play-lh.googleusercontent.com/ETXXAhhHtkMJNfVRNod4ztTbFvLvCNkK8HFe_1AlCEcDQHUYvlUsy-8CB0ewbU4MRac=w720-h310",
+        "https://play-lh.googleusercontent.com/NSnvH-lvPZfea-6Q3Tu7cUp6YQn_g1uZpzRw1vp3Rqtj_1ki_alcOMAV3_hOPKaiaA=w720-h310",
+        "https://play-lh.googleusercontent.com/WMUxsxBZmgklny0EuTCoqSTO-TGRBrF31k8ChCF5d1bxnZd706xOH_-G3ejvDMnzbhk=w720-h310",
+        "https://play-lh.googleusercontent.com/6uuiTy9Z_Hp5LDh6rpVJ-Cck26aDvTlMBJoEoEAhbJG5MtfAEX6l-BzdxYdX-U1Z7GCt=w720-h310"
       ]
     }, {
-      "name": "QR Code & barcode Scanner",
-      "packageName": "com.barcode.xcodeglobal.qrcodepro",
-      "icon": "https://play-lh.googleusercontent.com/Pf5_2Tcq0kHgr2njUQBdWIWOaV0Cl0j9THCJn5alKRBw3YIPdRrVACZN_Hd5l9TMwg8=s180",
-      "preview": "https://play-lh.googleusercontent.com/8XORCHrj4F6UgXAf8oW8xpfjfctrfdOI9wy2uiFOeyC43_4Ajb4q4th_ox_QUumOOT0=w720-h310",
-      "shortDescription": "The free ultimate QR code scanner",
+      "name": "Color Phone Flash",
+      "packageName": "com.photophonedialer.toptenapps",
+      "icon": "https://play-lh.googleusercontent.com/ar9P-3K3UYEbnoF-XYXEL2HQxZHupohOh3uKJDT-eVG-pUwkX17rctC7lejpjV6wEfIZ=s180",
+      "preview": "https://play-lh.googleusercontent.com/ICE2pjpPpcJbnayCdHV4yMOr875wAglieaF6TI1H6WtsfrGzA5ePMEHNM0GopsaVyAw=w720-h310",
+      "shortDescription": "Pretty and adorable themes with color flash",
       "screenShot": [
-        "https://play-lh.googleusercontent.com/xKCYMMuIshGmxLVckXnGYsdorvBxF0oI58Yt82Vkj_cn3Dby52gdrt4Lmr7BTYiVww=w720-h310",
-        "https://play-lh.googleusercontent.com/3KtSEofVcRIQUWQnq814EYI7xo61uD6Cg1tvWdYTPUXweFMjv7HkA9b9FVmt3zYDkSau=w720-h310"
+        "https://play-lh.googleusercontent.com/JToW2ngPUaMAH_R2MGFuA-aNkqHXL5sP6jUO8boSdJSOmmQTZiXA8VjojkpQwNNTfA=w720-h310",
+        "https://play-lh.googleusercontent.com/xPeJt68FlXoz6bLIQulZD9KSAAt60qCR7Ihu_WLrc5lE6AruLCn-9AGizQ7fRY7Jqw=w720-h310",
+        "https://play-lh.googleusercontent.com/dM1eSi7w_sh3-JPweL3x4pVa5l-8FdYeZlj3pADhq0aeSp36nNTnCtz0QLILCQy9Rv8=w720-h310",
+        "https://play-lh.googleusercontent.com/Rhm-irlZZ0RT0bZBGIXhVDwKY6YSO-nHuzuOEoluEDLEOWkHO-wX_GAGkyX8RDnNMJc=w720-h310"
       ]
     }, {
-      "name": "QR Code & barcode Scanner",
-      "packageName": "com.barcode.xcodeglobal.qrcodepro",
-      "icon": "https://play-lh.googleusercontent.com/Pf5_2Tcq0kHgr2njUQBdWIWOaV0Cl0j9THCJn5alKRBw3YIPdRrVACZN_Hd5l9TMwg8=s180",
-      "preview": "https://play-lh.googleusercontent.com/8XORCHrj4F6UgXAf8oW8xpfjfctrfdOI9wy2uiFOeyC43_4Ajb4q4th_ox_QUumOOT0=w720-h310",
-      "shortDescription": "The free ultimate QR code scanner",
+      "name": "PDF Reader - PDF Viewer",
+      "packageName": "com.pdfreader.toptenapps",
+      "icon": "https://play-lh.googleusercontent.com/Oq6pItQAxH8ol60820NLo9UOuTnpDtMRx3KFxrUkl5hwGB9sxkUdStmDs71dpf1lw1fv=s180",
+      "preview": "https://play-lh.googleusercontent.com/vDlDlem4Gl103oQngodfdPmslbKWDgzupvIFWNDAIIBNPKaEuMGnpdN3Ihxwm8bUAes=w720-h310",
+      "shortDescription": "Find and display all PDF files",
       "screenShot": [
-        "https://play-lh.googleusercontent.com/xKCYMMuIshGmxLVckXnGYsdorvBxF0oI58Yt82Vkj_cn3Dby52gdrt4Lmr7BTYiVww=w720-h310",
-        "https://play-lh.googleusercontent.com/3KtSEofVcRIQUWQnq814EYI7xo61uD6Cg1tvWdYTPUXweFMjv7HkA9b9FVmt3zYDkSau=w720-h310"
+        "https://play-lh.googleusercontent.com/qsLJpqZFRIDj01ldkZSe_2KPMvo14KRw5k8yiaHmtaKj40ZoZdwx8WfoXk1I1fK0g8Z6=w720-h310",
+        "https://play-lh.googleusercontent.com/mHICveRibBUy6127VuujT3MgW8r1T1W0_ITGqTjaACkcm1p2HSatx4uX5DnFQmT5RoTA=w720-h310",
+        "https://play-lh.googleusercontent.com/oyF7pMD0E7kmBGrKUK-oxYxIMxTbwqLOiT_R_0rwv788I47jAjol6HrASSBhmlTkbAg=w720-h310",
+        "https://play-lh.googleusercontent.com/NjJKdENb12HxKVSdpVCKyVMccRyPbzcR2LkhskyJD7Pof2w9r0Q58s54MKE-LqzqGw=w720-h310"
       ]
     },
     {
@@ -105,9 +111,10 @@
       "preview": "https://play-lh.googleusercontent.com/4MdgFR3CHZ43N6r6PK0d4uqXQRmIIcerDuxfVfugujhsbPC9i2n6Ndkbiw8mnTyCupgM=w720-h310",
       "shortDescription": "Speak and Translate all text, voice & conversations",
       "screenShot": [
-        "https://play-lh.googleusercontent.com/ykOPalbLQ5fwd2gvh-uRizHG1xeOvxLWDw7CtLm5P32l-ywf2dM2yGQU5FNKjjwEIBA=w720-h310",
-        "https://play-lh.googleusercontent.com/RJ3G6klnvHH5wKOXHWP4a-b6PM38ACfzfFCNzagFt0jAFDYbS2N2bHFGKBgV58bIaoI=w720-h310",
-        "https://play-lh.googleusercontent.com/nXE3w0mXOfmCR8_9_gRjREgaqZ1aLhF1XhQ-dk-UkWVMIVEl4_iYp4S_yKwhtzULJto=w720-h310"
+        "https://play-lh.googleusercontent.com/qEDl7ziMEF-xbrBIEgnQxkL30OHT8KyU0woF1kqgQloz9BpyfSLXJN_HPX-W_HbZ4cI=w720-h310",
+        "https://play-lh.googleusercontent.com/A-QLOexG2U1Kia7W17fVUpnvfKwei8bl_id0L_JMRX23r_lgOmfdIbYPfHscnMZmAQ=w720-h310",
+        "https://play-lh.googleusercontent.com/b9zm1VZyuxj4dSHhUpkje5hfTBXuLxK8j8wIXwg3lDexlXwbyJ8xBUQe67MfwvYRmKYA=w720-h310",
+        "https://play-lh.googleusercontent.com/UkQ10Jkv0qi0mD-isW2aFMaPDRgFO18xf-EkMTnfyOA9PeYMVtDfHJSYERRuwhrlP9I=w720-h310"
       ]
     }
   ]
