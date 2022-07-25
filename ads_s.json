@@ -1,15 +1,15 @@
 {
   "AppsPromote": [
     {
-      "name": "Glitch Video & Editor",
-      "packageName": "com.xcodeglobal.glitchvideo",
-      "icon": "https://play-lh.googleusercontent.com/31iCjSCyEdWqAnR9XSkJPhC-qat0XobA0Bw84VlowSnJlKmVCBN4qvLZlAeJDXyIdGg=s180",
-      "preview": "https://play-lh.googleusercontent.com/MjAt17jOQWJxd_YEll4gNc8TgzKW7e_pfYTacr7d_MZLB50Q_qrbvYAk5fSuFbQaWA=w720-h310",
-      "shortDescription": "Select video from gallery and glitch it!",
+      "name": "Color Flash Alerts",
+      "packageName": "com.oncallsmsforall.color.flash.alert",
+      "icon": "https://play-lh.googleusercontent.com/bc7S7ZiPHW7NRtuLS2LRdsc_IJemb8-7nJLKhYZgDLUTafDE2mc03rS12k1P8PJJaXo=s180",
+      "preview": "https://play-lh.googleusercontent.com/CGB1qzAIEwrxKy6l2bFSsMoK7hDypojXV9QYj9bbAHrw2PqPiiBGzAK_OFkoYZvvxiI=w720-h310",
+      "shortDescription": "is the best flashlight notification alert!",
       "screenShot": [
-        "https://play-lh.googleusercontent.com/If48EWmIsPyAaTfFgUTqGOyjqngeCpofNjtKju3-xSUpGQkyJ3ytZtLAA1TlhBu9hbrY=w720-h310",
-        "https://play-lh.googleusercontent.com/eD9w7E5TQ4ecfDSd0ZidfGIdtdF2GpoGqeQ3XYOpHHnLmOSY3a1-L5SiJh7G30_Lj7k=w720-h310",
-        "https://play-lh.googleusercontent.com/lk0wOyXde7SIhLLndvhi991SWfxZYxNS7XhJUflq7-cjUba0xIU_GfA6uWg1EAWlRII=w720-h310"
+        "https://play-lh.googleusercontent.com/JRalcBSv7UjNGPBPTo_5IjLaMHB1ClOV0x12xEUAfQjq66B4KX4AzkUmK2qyaskctw=w720-h310",
+        "https://play-lh.googleusercontent.com/J7Ht1TTqziQ4rucHrj2fWCf0mvLyK7xI6wucAUeORXAwk_KhsCbqSsLhbqP80enzeU5z=w720-h310",
+        "https://play-lh.googleusercontent.com/ZQo6367t04tuyIVG0OkFF6dExlEsOCzj5LuTSq3ogonSlgn9BR_JlJtgbbCrE_wa3K8=w720-h310"
       ]
     },
     {
@@ -25,16 +25,16 @@
       ]
     },
       {
-      "name": "Background Remover",
-      "packageName": "com.xcodeglobal.background.cutout",
-      "icon": "https://play-lh.googleusercontent.com/K60dcVkfJySaFQAJ3g-A3yzIt2txNSyA8eJ24yC0B_1sSDi4YyZoEb_BTARfLcronEEJ=s180",
-      "preview": "https://play-lh.googleusercontent.com/tE2LchQx6wTkIiRqcH_SXxYakNN75ji-HImGXZaF9LXmSI50u502VP-eMUuJIw0FNQ=w720-h310",
-      "shortDescription": "Remove image backgrounds",
+      "name": "Remote Control for All TV",
+      "packageName": "com.codecontrol.tvremoteapp",
+      "icon": "https://play-lh.googleusercontent.com/5GPsm2X4TTHxzJuiD7gaIrXtirZfNE-DmCXiwH8UzmMhdZfVtex5V4QBs3t6KPjEdts=s180",
+      "preview": "https://play-lh.googleusercontent.com/EPMSWwi4Tl2izQXSEcWqO31p-FhW2oub4QVIyV8OiOCaD3Szw0sEgbhtflRypuOGKg=w720-h310",
+      "shortDescription": "professional universal remote for all TVs",
       "screenShot": [
-        "https://play-lh.googleusercontent.com/mQKvoxckRsczOclgexNM6orz1qt-hSu238x_gdIIEJ5Ax3e76GqMkOXOWmwiV7QCIbc=w720-h310",
-        "https://play-lh.googleusercontent.com/6552K6kp5PWLCWDhtakSIyMsAb9PFEqPQ_89gKIPdHJY7Kj4wg0EqE7fAi3OHUeSmybi=w720-h310",
-        "https://play-lh.googleusercontent.com/9loh5GepYt5gog9y6HIEMmT7cRmN-PabKeD5vqWHf_FUsQbNs5_afow1HV26gxFQwYQ=w720-h310",
-        "https://play-lh.googleusercontent.com/sWimsnOqv-eIA1P5oDOMBAW61m8YfDw5mU-huQawGZVZVZC22NMX4vskSQ7vkdarB8NQ=w720-h310"
+        "https://play-lh.googleusercontent.com/MMwqqAqf9gEUhOahERu8OZxBLRGtVSy-RFASRPmuCo0irHeHklcguGz1ooeaEuWQyXM=w720-h310",
+        "https://play-lh.googleusercontent.com/Jcdj3Pd67kqTipwqjoyJqUSBVN3AA2a9gF9WpSGZ9kyGyWoFXX-JiXsukDXdTX17FKA=w720-h310",
+        "https://play-lh.googleusercontent.com/EJkZXkjreuUDUr2cga6-SIrqnV2cJIAtAyyfBrS5SavTbrhasN3V00Ot-uobWoM17uKI=w720-h310",
+        "https://play-lh.googleusercontent.com/vvDvzfHmrsmRWqkZzMsnX9p7hYfzSlDlwpGOh088PlA4dcg4hTU9YqhnmWHIsUcxmNM=w720-h310"
       ]
     },
       {
